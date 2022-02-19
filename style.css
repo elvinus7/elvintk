@@ -9,7 +9,7 @@ nav ul {
   list-style: none;
   margin: 10;
   padding: 10;
-  border: dashed blue;
+  border: dashed red;
 }
 nav a {
   display: block;
