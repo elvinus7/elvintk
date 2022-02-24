@@ -1,5 +1,5 @@
 /*Start Style for Body*/
-table{color:red;}
+table{color:red}
 h1 {color:red}
 /*End Style for Body*/
 
@@ -31,7 +31,7 @@ nav a {
   line-height: 70px;
   padding: 0 30px;
   font-weight: bold;
-  color: white;
+  color: #003559;
   /* text-transform: uppercase; */
 }
 .down:after {
